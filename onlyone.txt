@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 magenta
+=======
+alternate
+>>>>>>> alternate
